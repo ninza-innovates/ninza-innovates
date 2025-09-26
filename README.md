@@ -40,18 +40,6 @@ These are the skills I either use on the daily or have tried.
   </a>
 </p>
 
-## 🍵 Buy me a coffee;
-<p><a href="https://www.buymeacoffee.com/mnpsnuwan"> 
-   <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="160" alt="mnpsnuwan" /></a>
-</p>
-
-## 🫂 Support me via Paypal;
-<a href="https://paypal.me/NuwanSamarasinghe?country.x=US&locale.x=en_US"><img src="https://www.paypalobjects.com/paypal-ui/logos/svg/paypal-color.svg" height="40" width="160" alt="mnpsnuwan" />
-</a>
-
-## 🛂 Contributions;
-![Snake animation](https://raw.githubusercontent.com/mnpsnuwan/mnpsnuwan/output/github-contribution-grid-snake.svg)
-
 ## 💫 Stats;
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnpsnuwan&&theme=algolia&hide=TeX&layout=compact)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mnpsnuwan&theme=algolia" alt="mnpsnuwan"  /> -->
