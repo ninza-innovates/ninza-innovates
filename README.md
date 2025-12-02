@@ -3,7 +3,7 @@
 ![Views Counter](https://views-counter.vercel.app/badge?pageId=mnpsnuwan&leftColor=000000&rightColor=781f25&type=unique&label=UNIQUE%20VIEWS&style=none)
 <a href="https://github.com/ninza-innovates"><img align="left" alt="React" width="100%" style="padding-right:10px;" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:30FF00,50:00C0FF,100:FF005A&text=Welcome%20to%20my%20Profile!&reversal=true&section=header&fontAlignY=45&fontSize=40&textBg=false&animation=twinkling&fontColor=FFFFFF" /></a><br>
 
-# Hi there 👋, I'm Daigo Uschida ✨
+# Hi there 👋, I'm a Senior Software Engineer ✨
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cambria&weight=700&size=30&pause=1000&color=00C0FF&width=600&height=60&lines=I'm+Lead+Full+Stack+Engineer;7%2B+Years+of+Industry+Experience;I+Always+Try+to+Learn+New+Things;I+Lead+Dev+Teams;I+Build+Large+Scale+Applications;I+Build+Web+Applications;I+Build+Cloud+Applications;I+Develop+Enterprise+Applications;I+Build+Mobile+Applications;I+Design+Scalable+Systems;I+Design+Brands;I+Create+User+Experience+Designs;I+Implement+REST%2FSOAP+Web+Services;I+Analyze+Data+Using+Data+Science;I+Configure+CI%2FCD)](https://git.io/typing-svg)
 
