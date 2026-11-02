@@ -1,7 +1,7 @@
 ![Views Counter](https://views-counter.vercel.app/badge?pageId=mnpsnuwan&leftColor=000000&rightColor=0adb3f&type=total&label=TOTAL%20VIEWS&style=none)
 ![Views Counter](https://views-counter.vercel.app/badge?pageId=mnpsnuwan&leftColor=000000&rightColor=0adbd8&type=daily&label=TODAY%20VIEWS&style=none)
 ![Views Counter](https://views-counter.vercel.app/badge?pageId=mnpsnuwan&leftColor=000000&rightColor=781f25&type=unique&label=UNIQUE%20VIEWS&style=none)
-<a href="https://github.com/ninza-innovates"><img align="left" alt="React" width="100%" style="padding-right:10px;" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:30FF00,50:00C0FF,100:FF005A&text=Welcome%20to%20my%20Profile!&reversal=true&section=header&fontAlignY=45&fontSize=40&textBg=false&animation=twinkling&fontColor=FFFFFF" /></a><br>
+<a href="https://github.com/ninza-innovates"><img align="left" alt="Welcome to my Profile" width="100%" style="padding-right:10px;" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:30FF00,50:00C0FF,100:FF005A&text=Welcome%20to%20my%20Profile!&reversal=true&section=header&fontAlignY=45&fontSize=40&textBg=false&animation=twinkling&fontColor=FFFFFF" /></a><br>
 
 # Hi there 👋, I'm a Senior Software Engineer ✨
 
