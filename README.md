@@ -15,9 +15,9 @@ I write readable code, review carefully, and keep delivery moving with the team.
 
 ## Featured projects
 
-- [StatEdge](https://github.com/ninza-innovates/StatEdge---Football-live-stream-) — React and TypeScript app for football fixtures and match threads, with Supabase auth, Stripe subscriptions, and generated match insights.
-- [UrHired](https://github.com/ninza-innovates/UrHired) — Public repository with no commits or source files yet.
-- [hire-ready](https://github.com/ninza-innovates/hire-ready) — Next.js and TypeScript app for practicing interviews, with Firebase authentication, Vapi voice sessions, and a feedback page.
+- [StatEdge](https://github.com/ninza-innovates/StatEdge---Football-live-stream-) — React and Vite app for football fixtures, match stats, and live match threads, with Supabase and Stripe.
+- [Ajeris Portal](https://github.com/ninza-innovates/Ajeris-portal) — Next.js 14 and TypeScript admin portal for a medical studies platform, with Tailwind pages for studies, organizations, radiologists, users, and billing.
+- [growthscript](https://github.com/ninza-innovates/growthscript) — Next.js app with a Supabase login page and a Stripe client. LangGraph and OpenAI are dependencies and are not imported in the checked-in pages.
 
 ## GitHub
 
