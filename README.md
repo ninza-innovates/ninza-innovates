@@ -59,7 +59,7 @@ These are the skills I either use on the daily or have tried.
 <table align="left">
 <tr border="none">
 <td width="50%" align="center"> 
-        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mnpsnuwan&theme=algolia" height="200em width=455em" />
+        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mnpsnuwan&theme=algolia" height="200em" width="455em" />
       </td>
       <td width="50%" align="center">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mnpsnuwan&theme=algolia" height="200em" width="455em" />
